@@ -1,1 +1,1 @@
-# discord-register-public
+# atlantis-register-bot-akma-
